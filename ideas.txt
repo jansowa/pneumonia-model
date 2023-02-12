@@ -1,0 +1,5 @@
+Project ideas:
+-why is difference between validation and test score so big? 
+-don't mix photos of the same person in train and validation set
+-remove background (how to do it?) 
+-how to properly resize images?
